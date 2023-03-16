@@ -1,0 +1,9 @@
+﻿<Application x:Class="Single.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Single"
+             StartupUri="View/SingIn.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
